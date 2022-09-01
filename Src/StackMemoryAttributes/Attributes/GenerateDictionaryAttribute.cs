@@ -3,7 +3,7 @@
 namespace StackMemoryCollections.Attibutes
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
-    public class GenerateDictionaryAttribute : Attribute
+    public sealed class GenerateDictionaryAttribute : Attribute
     {
     }
 }

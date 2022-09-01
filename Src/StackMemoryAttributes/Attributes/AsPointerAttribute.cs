@@ -3,7 +3,7 @@
 namespace StackMemoryAttributes.Attributes
 {
     [AttributeUsage(AttributeTargets.Field | AttributeTargets.Property)]
-    public class AsPointerAttribute : Attribute
+    public sealed class AsPointerAttribute : Attribute
     {
     }
 }

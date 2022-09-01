@@ -3,7 +3,7 @@
 namespace StackMemoryCollections.Attibutes
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
-    public class GenerateHelperAttribute : Attribute
+    public sealed class GenerateHelperAttribute : Attribute
     {
     }
 }

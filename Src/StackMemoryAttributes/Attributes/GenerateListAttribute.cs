@@ -3,7 +3,7 @@
 namespace StackMemoryCollections.Attibutes
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
-    public class GenerateListAttribute : Attribute
+    public sealed class GenerateListAttribute : Attribute
     {
     }
 }
