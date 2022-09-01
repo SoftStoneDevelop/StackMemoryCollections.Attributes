@@ -1,5 +1,5 @@
 # Definition
-Causes the generator to generate a stack for this type.
+Causes the generator to generate a [stack](https://github.com/SoftStoneDevelop/StackMemoryCollections/blob/main/Documentation/Stack/Readme.md) for this type.
 
 ```C#
 
