@@ -1,5 +1,5 @@
 # Definition
-Causes the generator to generate a helper for this type.
+Causes the generator to generate a [helper](https://github.com/SoftStoneDevelop/StackMemoryCollections/blob/main/Documentation/Helper/Readme.md) for this type.
 
 ```C#
 
