@@ -1,5 +1,5 @@
 # Definition
-Causes the generator to generate a wrapper for this type.
+Causes the generator to generate a [wrapper](https://github.com/SoftStoneDevelop/StackMemoryCollections/blob/main/Documentation/Wrapper/Readme.md) for this type.
 
 ```C#
 
